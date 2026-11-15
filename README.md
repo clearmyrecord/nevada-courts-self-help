@@ -1,2 +1,1 @@
-# nevada-courts-self-help
-nevada-courts-self-help
+Nevada Courts & Self-Help prototype with separately labeled optional RecordPathAI demonstration. Open index.html. Not an official court website. No user data collected. Integration is outside the RFQ base scope.
